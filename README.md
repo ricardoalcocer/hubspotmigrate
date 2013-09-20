@@ -3,9 +3,9 @@
 This short PHP script uses the HubSpot API to transfer HubSpot blog posts to Wordpress' RSS flavor, ready to import via the Wordpress admin.  The script transfers both Blog posts and their respective comments.
 
 ## Usage
-* Open the **script.php** file and set the $bloguid and $accesstoken variables.  You can get this values by going to HubSpot > Settings and selecting API Access. **NOTE: HubSpot access tokens work for only 8 hours.**
+* Open the **migratehubspot.php** file and set the $bloguid and $accesstoken variables.  You can get this values by going to HubSpot > Settings and selecting API Access. **NOTE: HubSpot access tokens work for only 8 hours.**
 * Place this file on a web-accessbile folder, for example **http://localhost**
-* Run the script by browsing to **http://localhost/script.php**
+* Run the script by browsing to **http://localhost/migratehubspot.php**
 
 ## Arguments
 * **Max** : Number specifying how many records to return
