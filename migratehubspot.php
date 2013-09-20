@@ -35,9 +35,6 @@
 
 	$blogguid='##YOUR_BLOG_GUID##';
 	$accesstoken='##YOUR_HUBSPOT_ACCESS_TOKEN##';
-
-	$blogguid='7e2280f5-416a-4b0d-9cbd-24243bf1c6ea';
-	$accesstoken='2e9ff853-2215-11e3-9a20-856fcdde1271';
 	//
 
 	
